@@ -16,7 +16,7 @@ Aplicación web desarrollada con React para gestionar una tienda de pastelería 
 Esta es la versión estable y entregada del proyecto.
 
 - **Versión en desarrollo (dev)**  
-👉 [https://petronila-pasteleria-online-git-dev-mariet07.vercel.app](https://petronila-pasteleria-online-git-dev-mariet07.vercel.app)  
+👉 [https://petronila-pasteleria-online-git-dev-marielas-projects-626cf6f6.vercel.app/](https://petronila-pasteleria-online-git-dev-marielas-projects-626cf6f6.vercel.app/)  
 Aquí se pueden ver los avances y nuevas funcionalidades en proceso.
 
 ---
